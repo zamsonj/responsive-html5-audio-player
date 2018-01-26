@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-16" ?>
+<wsb version="1.0" sppversion="4.03">
+ <file_title><![CDATA[Music Tracks]]></file_title>
+ 	<tracksList count="3">
+	   	<track id="1">
+		   <track_title><![CDATA[STAY]]></track_title>
+		   <track_artist><![CDATA[CashOnAble]]></track_artist>
+		   <track_cover><![CDATA[STAY_01.jpg]]></track_cover>
+		   <track_src><![CDATA[STAY.mp3]]></track_src>
+	  	</track>
+	  	<track id="2">
+		   <track_title><![CDATA[THiS CITY]]></track_title>
+		   <track_artist><![CDATA[Britt Kusserow]]></track_artist>
+		   <track_cover><![CDATA[THiSCITY.PNG]]></track_cover>
+		   <track_src><![CDATA[This City.mp3]]></track_src>
+	  	</track>
+	  	<track id="3">
+		   <track_title><![CDATA[Money Brings Trouble]]></track_title>
+		   <track_artist><![CDATA[Kin4Life]]></track_artist>
+		   <track_cover><![CDATA[KIN4LIFE.jpg]]></track_cover>
+		   <track_src><![CDATA[Money Brings Trouble.mp3]]></track_src>
+	  	</track>  
+ </tracksList>
+</wsb>
